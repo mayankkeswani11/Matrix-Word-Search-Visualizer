@@ -50,3 +50,5 @@ Resets the matrix and clears any previous highlights before a new search starts.
 
 Contributing
 Always welcome contributions to enhance the functionality and features of this project. Feel free to open issues or submit pull requests with improvements or bug fixes.
+![Screenshot 2024-05-30 192940](https://github.com/mayankkeswani11/Matrix-Word-Search-Visualizer/assets/100658657/4dcc8013-c078-414a-9c11-d966b4f9a267)
+![Screenshot 2024-05-30 192959](https://github.com/mayankkeswani11/Matrix-Word-Search-Visualizer/assets/100658657/54e85567-ba78-4f4b-bcfc-97e8057a4ac1)
