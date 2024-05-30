@@ -38,7 +38,9 @@ A 4x4 grid is created dynamically and displayed on the web page.
 Word Search Algorithm:
 
 1.The search algorithm checks all possible paths (right, down, left, up) from each cell.
+
 2.Uses recursion with a delay to highlight the path of the word in the matrix.
+
 3.Ensures only the correct path of the searched word is highlighted.
 
 Reset Functionality:
