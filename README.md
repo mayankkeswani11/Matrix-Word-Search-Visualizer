@@ -1,5 +1,7 @@
 Matrix Word Search Visualizer
 
+click on this link to view project... https://loquacious-caramel-f96078.netlify.app/
+
 OVERVIEW:
 
 The Matrix Word Search Visualizer is an interactive web application that allows users to search for words in a randomly generated matrix of uppercase letters. The application highlights the path of the word within the matrix if it exists, providing a visual representation of the search process with a delay for better clarity.
